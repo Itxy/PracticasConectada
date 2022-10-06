@@ -1,2 +1,2 @@
 # PracticasConectada
-Pràcticas
+Practicas
